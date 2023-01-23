@@ -6,9 +6,11 @@ This is summary of all working AR/VR Unity Projects I've worked on over a span o
 
 # AR Projects
 Restaurant Menu
+
 Funeral Home AR Program
 
 # VR Projects
 Funeral Home VR Program
-R Program
+
+
 
