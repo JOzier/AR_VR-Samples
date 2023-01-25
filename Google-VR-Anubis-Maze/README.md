@@ -40,7 +40,7 @@ All scripts are written by me except for the Waypoint script where I used Udacit
 
 ## Art
 
-All models and textures was made by me. Using  
+All models and textures was made by me.  
 
 ## sounds
 
